@@ -1,5 +1,8 @@
-
-
+<h1 align="center">Wolsterey</h1>
+<p align="center">
+<img src="https://wallpapercave.com/wp/wp5375313.jpg">
+  </p>
+  <hr/>
 <!--
 **Wolsterey/wolsterey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">📚 Github Stats 📚</h1>
+<h2 align="center">📚 Github Stats 📚</h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=wolsterey&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27&include_all_commits=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolsterey&layout=compact&text_color=38bdae&title_color=70a5fd&bg_color=1a1b27">
